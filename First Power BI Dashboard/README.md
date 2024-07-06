@@ -11,4 +11,4 @@ step by step to learn the basics of making a dashboard in Power BI.
 Since I can not publish this dashboard without a "Power BI Pro License" I have attached a screenshot of the dashboard I made. As you can see, it
 looks exactly like the one from the tutorial. I did it this way to ensure I understood the new Power BI tools.
 
-! [alt text](https://github.com/Gavin-McCorry/Personal-PowerBI-Projects/blob/main/First%20Power%20BI%20Dashboard/First%20Powr%20BI%20Screenshot.png)
+![alt text](https://github.com/Gavin-McCorry/Personal-PowerBI-Projects/blob/main/First%20Power%20BI%20Dashboard/First%20Powr%20BI%20Screenshot.png)
