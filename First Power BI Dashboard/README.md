@@ -13,3 +13,6 @@ looks exactly like the one from the tutorial. I did it this way to ensure I unde
 
 ! [alt text](https://github.com/Gavin-McCorry/Personal-PowerBI-Projects/blob/main/First%20Power%20BI%20Dashboard/First%20Powr%20BI%20Screenshot.png?raw=true)
 ![Alt text](/relative/path/to/Personal-PowerBI-Projects/First Power BI Dashboard/blob/main/First%20Power%20BI%20Dashboard/First%20Powr%20BI%20Screenshot.png? "Optional Title")
+First Powr BI Screenshot.png
+
+![Alt text](/relative/path/to/Personal-PowerBI-Projects/First Power BI Dashboard/First Powr BI Screenshot.png "Optional Title")
